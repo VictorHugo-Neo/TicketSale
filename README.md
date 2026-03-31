@@ -21,5 +21,5 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) e o [Git](https://git-scm.
 ### 2. Clonar o Repositório
 Abra o terminal na pasta onde deseja salvar o projeto e rode:
 ```bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
-cd NOME_DO_REPOSITORIO
+git clone [https://github.com/VictorHugo-Neo/TicketSale.git](https://github.com/VictorHugo-Neo/TicketSale.git)
+cd TicketSale
