@@ -1,16 +1,25 @@
-# React + Vite
+# 🎟️ Sistema de Gestão e Venda de Ingressos (SGVI)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindos ao repositório oficial do projeto de ingressos desenvolvido pela turma **3° Ano 1** da **Escola Estadual Professor Jason de Morais**. 
 
-Currently, two official plugins are available:
+Este é um projeto de frontend *Headless* (Serverless) focado em performance, escalabilidade e na melhor experiência para o usuário final.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tecnologias Utilizadas
+- **Interface:** [React.js](https://reactjs.org/) (com Vite)
+- **Gerenciamento de Dados (CMS):** [Sanity.io](https://www.sanity.io/)
+- **Hospedagem & Deploy:** [Vercel](https://vercel.com/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Como rodar o projeto na sua máquina
 
-## Expanding the ESLint configuration
+Siga o passo a passo abaixo para configurar o ambiente de desenvolvimento local:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1. Pré-requisitos
+Certifique-se de ter o [Node.js](https://nodejs.org/) e o [Git](https://git-scm.com/) instalados no seu computador.
+
+### 2. Clonar o Repositório
+Abra o terminal na pasta onde deseja salvar o projeto e rode:
+```bash
+git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+cd NOME_DO_REPOSITORIO
